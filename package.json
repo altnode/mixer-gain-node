@@ -1,0 +1,22 @@
+{
+  "name": "altnode.mixer-gain-node",
+  "description": "altnode.MixerGainNode",
+  "version": "0.0.0",
+  "author": "Nao Yonamine <mohayonao@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/altnode/mixer-gain-node/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/altnode/mixer-gain-node",
+  "keywords": [
+    "Web Audio API"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/altnode/mixer-gain-node.git"
+  },
+  "scripts": {}
+}
