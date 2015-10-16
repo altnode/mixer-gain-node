@@ -6,7 +6,7 @@
 ## Installation
 
 ```
-npm install -s altnode.mixer-gain-node
+npm install -S altnode.mixer-gain-node
 ```
 
 ## API
