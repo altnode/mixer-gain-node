@@ -15,12 +15,7 @@ npm install -S altnode.mixer-gain-node
 ### MixerGainNode
 - `constructor(audioContext: AudioContext, numberOfInputs = 2)`
 
-#### Instance attributes
-- `context: AudioContext`
-
 #### Instance methods
-_Also implements methods from the interface [altnode.AudioNode](https://github.com/altnode/audio-node)._
-
 - `getChannelGain(channel: number): AudioParam`
 
 ## Example
