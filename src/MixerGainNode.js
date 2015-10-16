@@ -1,7 +1,7 @@
-import AudioNode from "altnode.audio-node";
+import AltAudioNode from "altnode.alt-audio-node";
 import { CHANNELS } from "./symbols";
 
-export default class MixerGainNode extends AudioNode {
+export default class MixerGainNode extends AltAudioNode {
   constructor(audioContext, numberOfInputs = 2) {
     super(audioContext);
 

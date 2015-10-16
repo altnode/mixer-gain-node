@@ -3,6 +3,8 @@
 [![NPM Version](http://img.shields.io/npm/v/altnode.mixer-gain-node.svg?style=flat-square)](https://www.npmjs.org/package/altnode.mixer-gain-node)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://mohayonao.mit-license.org/)
 
+![graph](https://github.com/altnode/mixer-gain-node/wiki/images/mixer-gain-node.png)
+
 ## Installation
 
 ```
@@ -10,7 +12,7 @@ npm install -S altnode.mixer-gain-node
 ```
 
 ## API
-### AudioNode
+### MixerGainNode
 - `constructor(audioContext: AudioContext, numberOfInputs = 2)`
 
 #### Instance attributes
