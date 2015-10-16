@@ -1,1 +1,3 @@
-export default {};
+import MixerGainNode from "./MixerGainNode";
+
+export default MixerGainNode;
